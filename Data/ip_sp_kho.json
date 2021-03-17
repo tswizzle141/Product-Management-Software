@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "Type": "RAM",
+      "Name": "Kingston 8GB"
+    },
+    {
+      "Type": "Graphic Card",
+      "Name": "Axus GTX 1060Ti"
+    },
+    {
+      "Type": "SSD",
+      "Name": "Samsung 256GB"
+    },
+    {
+      "Type": "eSport",
+      "Name": "FIFA2021"
+    },
+    {
+      "Type": "Mouse",
+      "Name": "4800 DPI Gaming Mouse"
+    }
+  ]
+}

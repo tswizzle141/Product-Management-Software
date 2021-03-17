@@ -1,0 +1,130 @@
+{
+  "bill": [
+    {
+      "Date": "11/1/2021",
+      "Name": "2",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Tiền mặt",
+      "Tax": "1"
+    },
+    {
+      "Date": "11/1/2021",
+      "Name": "c",
+      "Company": "b",
+      "Address": "b",
+      "Account": "b",
+      "Pay": "Chuyển khoản",
+      "Tax": "b"
+    },
+    {
+      "Date": "13/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản",
+      "Tax": "1"
+    },
+    {
+      "Date": "13/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "11",
+      "Account": "1",
+      "Pay": "Tiền mặt",
+      "Tax": "1"
+    },
+    {
+      "Date": "13/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Ví điện tử",
+      "Tax": "1"
+    },
+    {
+      "Date": "13/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản",
+      "Tax": "2"
+    },
+    {
+      "Date": "13/1/2021",
+      "Name": "q",
+      "Company": "q",
+      "Address": "q",
+      "Account": "q",
+      "Pay": "Chuyển khoản",
+      "Tax": "q"
+    },
+    {
+      "Date": "13/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản",
+      "Tax": "1"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản",
+      "Tax": "1"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Tiền mặt",
+      "Tax": "1"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "11",
+      "Account": "1",
+      "Pay": "Tiền mặt",
+      "Tax": "1"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản",
+      "Tax": "1"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "11",
+      "Pay": "Tiền mặt",
+      "Tax": "1"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Company": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản",
+      "Tax": "1"
+    }
+  ]
+}

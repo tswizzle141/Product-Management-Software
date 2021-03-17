@@ -1,0 +1,81 @@
+{
+  "bill": [
+    {
+      "Date": "11/1/2021",
+      "Name": "2",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    },
+    {
+      "Date": "11/1/2021",
+      "Name": "5",
+      "Address": "5",
+      "Account": "5",
+      "Pay": "Ví điện tử"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "11",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Tiền mặt"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Tiền mặt"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Tiền mặt"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    },
+    {
+      "Date": "14/1/2021",
+      "Name": "1",
+      "Address": "1",
+      "Account": "1",
+      "Pay": "Chuyển khoản"
+    }
+  ]
+}

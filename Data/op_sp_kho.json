@@ -1,0 +1,64 @@
+{
+	"products": [
+		{
+			"Type":"RAM",
+			"Name":"Kingston 8GB",
+			"VND":"555555",
+			"USD":"24.061",
+			"EUR":"19.631",
+			"RMB":"157.063",
+			"KRW":"26156.073",
+			"Availability":"12"
+		},
+		{
+			"Type":"Graphic Card",
+			"Name":"Axus GTX 1060Ti",
+			"VND":"6666666",
+			"USD":"288.738",
+			"EUR":"235.571",
+			"RMB":"1884.762",
+			"KRW":"313873.164",
+			"Availability":"16"
+		},
+		{
+			"Type":"SSD",
+			"Name":"Samsung 256GB",
+			"VND":"77777777",
+			"USD":"3368.607",
+			"EUR":"2748.331",
+			"RMB":"21988.888",
+			"KRW":"3661853.908",
+			"Availability":"17"
+		},
+		{
+			"Type":"eSport",
+			"Name":"FIFA2021",
+			"VND":"1111111",
+			"USD":"48.123",
+			"EUR":"39.262",
+			"RMB":"314.127",
+			"KRW":"52312.194",
+			"Availability":"11"
+		},
+		{
+			"Type":"Mouse",
+			"Name":"4800 DPI Gaming Mouse",
+			"VND":"1000000",
+			"USD":"43.311",
+			"EUR":"35.336",
+			"RMB":"282.714",
+			"KRW":"47080.979",
+			"Availability":"5"
+		},
+		{
+			"Type":"aaaa",
+			"Name":"bbbb",
+			"VND":"3333",
+			"USD":"0.144",
+			"EUR":"0.118",
+			"RMB":"0.942",
+			"KRW":"156.921",
+			"Availability":"3"
+		}
+	]
+}

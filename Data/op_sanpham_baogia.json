@@ -1,0 +1,19 @@
+{
+	"products": [
+		{
+			"Type":"Graphic Card",
+			"Name":"Axus GTX 1060Ti",
+			"Amount":"3",
+			"Warranty":"",
+			"Prices":"6666666",
+			"Price per unit (USD)":"289.007",
+			"VND":"19999998",
+			"USD":"869.021"
+		}
+	],
+	"currency": [
+		{
+			"Type": "USD"
+		}
+	]
+}
