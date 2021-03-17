@@ -2,7 +2,7 @@
 
 My main role is played on form `f102_kho.cs` and `f103_bao_gia.cs`, with the use of Observer Design Pattern.
 
-## Form f102
+## Form `f102_kho.cs`
 
 This `f102_kho.cs` performs 5 purposes: 
 - `f102_kho.cs` is designed only for Admin, not the Customer.
